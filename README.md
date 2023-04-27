@@ -1,6 +1,6 @@
 # FSHLib
 
-This is the reverse-engineered code of the FSHLib library written by Jon Rista a.k.a DarkMatter.
+This is the reverse-engineered code of the FSHLib library written by Jon Rista a.k.a DarkMatter.   
 I patched it in 2009 to fix a compatibility issue with Windows Vista.
 
 FSHLib appears to be based on Denis Auroux's [FSHTool](https://math.mit.edu/~auroux/software/index.html).
@@ -18,5 +18,5 @@ The `vs` folder contains a project file for Visual Studio 2022, this is to make 
 
 The FSHTool read-me indicates that it is licensed under the terms of the GNU General Public License without specifying the license version.
 
-This project is licensed under the terms of the GNU General Public License version 3.0.
-See License.txt for more information.
+This project is licensed under the terms of the GNU General Public License version 3.0.   
+See [License.txt](License.txt) for more information.
